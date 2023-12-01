@@ -1,0 +1,7 @@
+{
+  "name": "responsi2-tamu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
